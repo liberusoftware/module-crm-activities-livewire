@@ -2,7 +2,7 @@
   "name": "crm-activities-livewire",
   "display_name": "CRM Activities Livewire",
   "description": "Livewire activity planning, completion, goals and reporting interfaces.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "presentation",
   "provider": "Liberu\\CRM\\Activities\\Livewire\\ActivitiesLivewireServiceProvider",
   "requires": {
